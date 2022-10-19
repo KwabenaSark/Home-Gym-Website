@@ -1,5 +1,7 @@
 # Home-Gym-Website
-## [View Project](www.g.com)  
+{The database was able to be deployed during the hosting}
+## [View Project](https://homegymeq.herokuapp.com/)  
+
 ### A critical evaluation using the Rolfe D model
 #### What(Description) 
 From the scenario, I was required a develop a website for, Home Gym Equipment company. The website required the following:
