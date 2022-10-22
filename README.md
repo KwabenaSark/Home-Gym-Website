@@ -1,6 +1,8 @@
 # Home-Gym-Website
-{The database was able to be deployed during the hosting}
-## [View Project](https://homegymeq.herokuapp.com/)  
+{Images and Videos was able to be deployed during the hosting down👇 }
+# [View Project](https://homegymeq.000webhostapp.com/index.php) 
+{View with images and videos but no database 👇 }
+### [View Project](https://homegymeq.herokuapp.com/)    
 
 ### A critical evaluation using the Rolfe D model
 #### What(Description) 
